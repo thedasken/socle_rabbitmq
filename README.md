@@ -43,9 +43,11 @@ just create
 ```bash
 just build      # Construire l'image
 just create     # Créer et démarrer
+just seed       # Créer un utilisateur
 just start      # Démarrer
 just stop       # Arrêter
 just clean      # Supprimer le pod
+just clean-all  # Supprimer pod + données
 just logs       # Voir les logs
 just cli        # Se connecter à rabbitmq
 ```
