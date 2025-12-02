@@ -1,4 +1,4 @@
-# mon_service_redis Redis - Simple et Efficace
+# mon_service_rabbitmq RabbitMQ - Simple et Efficace
 
 ## 📁 Structure minimaliste
 
